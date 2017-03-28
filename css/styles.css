@@ -21,3 +21,9 @@ body {
 .reveal .controls .navigate-bottom, .reveal .controls .navigate-bottom.enabled {
   border-top-color: white;
 }
+.bibliografia p {
+  font-size: 0.56em !important;
+}
+.segundo-color {
+  background-color: red;
+}
