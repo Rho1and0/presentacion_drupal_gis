@@ -27,3 +27,6 @@ body {
 .segundo-color {
   background-color: red;
 }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, p, ul li {
+  color: #18252d;
+}
